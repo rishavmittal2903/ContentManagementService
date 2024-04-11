@@ -1,0 +1,1 @@
+export const mongoDbConnection:string =`mongodb+srv://rishavmittal2903:Bangalore_94@cluster0.vozyvlu.mongodb.net/?retryWrites=true&w=majority`
